@@ -1,0 +1,19 @@
+{
+  "name": "@the-games/monorepo",
+  "version": "1.0.0",
+  "author": "João Lourenço <jrelourenco@outlook.pt>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/games/**",
+    "packages/configs/*"
+  ],
+  "devDependencies": {
+    "@the-games/eslint": "*",
+    "@the-games/jest": "*",
+    "@the-games/prettier": "*"
+  },
+  "scripts": {
+    "lint": "eslint . --ext ts --ext js --ext tsx --quiet"
+  }
+}

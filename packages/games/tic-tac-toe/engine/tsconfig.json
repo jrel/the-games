@@ -1,0 +1,7 @@
+{
+  "extends": "@the-games/typescript",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src"
+  }
+}

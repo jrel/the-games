@@ -1,0 +1,9 @@
+{
+  "name": "@the-games/prettier",
+  "version": "1.0.0",
+  "main": ".prettierrc.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "2.1.1"
+  }
+}

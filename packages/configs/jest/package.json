@@ -1,0 +1,12 @@
+{
+  "name": "@the-games/jest",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "license": "MIT",
+  "dependencies": {
+    "@the-games/typescript": "*",
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0"
+  }
+}

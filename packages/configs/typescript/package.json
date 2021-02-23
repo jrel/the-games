@@ -1,0 +1,9 @@
+{
+  "name": "@the-games/typescript",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "main": "tsconfig.json"
+}
